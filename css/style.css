@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient( to left,  rgba(9, 138, 230, 0.785), rgb(220, 216, 216));
+    /* background: radial-gradient(  rgb(220, 216, 216), rgba(9, 138, 230, 0.785)); */
+    background-size: 100vw;
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.vitalia{
+    margin: auto;
+    margin-top: 20vh;
+}
